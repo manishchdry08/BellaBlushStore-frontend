@@ -1,0 +1,3 @@
+This folder stores sample images. Replace with your product images named:
+lipstick1.jpg, lipstick2.jpg, foundation1.jpg, foundation2.jpg, eyeliner1.jpg, serum1.jpg
+You can put images in src/assets/ and Vite will serve them.
